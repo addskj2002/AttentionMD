@@ -5,3 +5,4 @@ playground.ipynb
 *.ipynb_checkpoints*
 data/*
 *.pt
+*.pth
