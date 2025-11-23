@@ -7,4 +7,4 @@ numpy==1.24.3
 transformers==4.41.2
 ```
 
-The `real-data` folder contains the code for the experiments with the data from the [Stanford Large Movie Dataset](https://ai.stanford.edu/~amaas/data/sentiment/), while `synthetic-data` contains experiments with randomly (with seeds) generated data.
+The `real-data` folder contains the code for the experiments with the data from the [Stanford Large Movie Dataset](https://ai.stanford.edu/~amaas/data/sentiment/), CIFAR-10, and CIFAR-100, while `synthetic-data` contains experiments with randomly (with seeds) generated data.
